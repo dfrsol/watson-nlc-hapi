@@ -2,8 +2,9 @@
   "name": "watson-nlc-hapi",
   "version": "0.0.1",
   "description": "Waston NLC Hapi.JS starter kit",
-  "main": "lib/server.js",
+  "main": "lib/start.js",
   "scripts": {
+    "start": "node lib/start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,15 +13,10 @@
   },
   "keywords": [
     "Watson",
-    "Watson",
     "NLC",
-    "Watson",
-    "NLC",
-    "Starter",
-    "Kit",
-    "Watson",
-    "NLC",
-    "Hapi"
+    "Watson NLC",
+    "Starter Kit",
+    "Watson NLC Hapi"
   ],
   "author": "Josh Buselt",
   "license": "ISC",
