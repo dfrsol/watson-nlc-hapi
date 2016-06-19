@@ -1,0 +1,35 @@
+{
+  "name": "watson-nlc-hapi",
+  "version": "0.0.1",
+  "description": "Waston NLC Hapi.JS starter kit",
+  "main": "lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfrsol/watson-nlc-hapi.git"
+  },
+  "keywords": [
+    "Watson",
+    "Watson",
+    "NLC",
+    "Watson",
+    "NLC",
+    "Starter",
+    "Kit",
+    "Watson",
+    "NLC",
+    "Hapi"
+  ],
+  "author": "Josh Buselt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfrsol/watson-nlc-hapi/issues"
+  },
+  "homepage": "https://github.com/dfrsol/watson-nlc-hapi",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "hoek": "^4.0.1"
+  }
+}
