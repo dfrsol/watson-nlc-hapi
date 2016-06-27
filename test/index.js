@@ -33,4 +33,15 @@ describe('/index', () => {
             server.stop(done);
         });
     });
+
+    it('starts server on provided port', (done) => {
+
+        Server.init(5000, (err, server) => {
+
+            expect(err).to.not.exist();
+            expect(server.info.port).to.equal(5000);
+
+            server.stop(done);
+        });
+    });
 });

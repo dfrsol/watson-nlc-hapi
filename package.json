@@ -29,6 +29,7 @@
     "hapi": "^13.4.1",
     "hoek": "^4.0.1",
     "inert": "^4.0.0",
+    "joi": "^8.4.2",
     "vision": "^4.1.0",
     "watson-developer-cloud": "^1.9.4"
   }
