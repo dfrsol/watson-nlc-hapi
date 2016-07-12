@@ -1,6 +1,6 @@
 {
   "name": "watson-nlc-hapi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Waston NLC Hapi.JS starter kit",
   "main": "lib/start.js",
   "scripts": {
