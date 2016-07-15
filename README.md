@@ -151,3 +151,9 @@ I've also named the endpoint and params to match how I use them on a daily basis
       }
     });
   ```
+
+## TODO
+---
+- Finish documentation of api endpoints (Looking into Lout or Swagger)
+- Add 100% unit test coverage
+- Set up Travis CI
